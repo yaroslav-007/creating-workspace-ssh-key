@@ -1,1 +1,1 @@
-# creating-workspace-ssh-key
+Simple TF code that creates workspace in TFE, create and attach ssh key to it and connects github repo to the TFE workspace.
